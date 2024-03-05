@@ -36,6 +36,7 @@ pyparsing==3.1.1
 python-dateutil==2.9.0.post0
 python-gdcm==3.0.23
 pyzmq==25.1.2
+SimpleITK==2.3.1
 six==1.16.0
 stack-data==0.6.3
 tornado==6.4
